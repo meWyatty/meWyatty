@@ -1,16 +1,31 @@
-## Hi there 👋
+# Привет! Я Алексей (Wyatty) 👋
 
-<!--
-**meWyatty/meWyatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com" alt="views" align="right" />
 
-Here are some ideas to get you started:
+Мне 21 год, и я занимаюсь разработкой софта и игровых серверов. Люблю копаться в коде и создавать асинхронные решения на Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Стек технологий:
+- **Languages:** 
+  ![Delphi](https://img.shields.io)
+  ![Java](https://img.shields.io)
+  ![Python](https://img.shields.io)
+- **OS:** Windows 10
+- **Database:** SQLite, PostgreSQL
+
+### 🖥 Моё железо:
+- **CPU:** Intel Core i3
+- **RAM:** 16 GB
+- **OS:** Windows 10 Pro
+
+### 🎮 В свободное время:
+- Активно играю в **Minecraft** (иногда пишу для него свои решения).
+- Экспериментирую с сетевыми протоколами.
+
+---
+
+### 📊 Моя статистика GitHub:
+![Wyatty's GitHub stats](https://github-readme-stats.vercel.app)
+![Top Langs](https://github-readme-stats.vercel.app)
+
+---
+*«Код работает, пока ты спишь (если он асинхронный)»*
